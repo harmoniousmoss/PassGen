@@ -1,3 +1,3 @@
 # PassGen
 
-Simple secure password generator built using Rust with the Actix Web framework
+A Simple random generated and secure passwords witch customizable length made with Actix web (Rust)
